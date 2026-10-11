@@ -27,3 +27,5 @@
 
 #### SHAP
   - podemos indentificar as principais variais que trouxeram grandes diferenciais para a analise de fraudes sendo elas as principais a V4 ea V14.
+
+####### Ao executar o codigo é preciso ter cautela pois existem diferentes blocos de codigo que entregam variaveis de mesmo nome, onde cada bloco extra, apesar de trazer o mesmo modelo traz diferentes parametros que irão modificar o resultados que poderão ser utilizado futuramente.
